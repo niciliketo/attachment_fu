@@ -8,6 +8,6 @@ Gem::Specification.new do |gem|
   gem.summary = %q{For uploading document or images}
   gem.description = 'For uploading document or images'
   gem.require_paths = ["lib"]
-  gem.files = Dir["CHANGELOG", "README.textile", "Rakefile", "TODO", "lib/**/*", "init.rb"]
+  gem.files = Dir["CHANGELOG", "README.textile", "Rakefile", "TODO", "lib/**/**", "init.rb"]
 
 end
