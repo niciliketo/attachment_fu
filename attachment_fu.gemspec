@@ -16,7 +16,7 @@ install.rb
 amazon_s3.yml.tpl
 rackspace_cloudfiles.yml.tpl
 lib/geometry.rb
-lib/technoweenie/attachment_fu/cis_attachment_fu.rb
+lib/cis_attachment_fu.rb
 lib/technoweenie/attachment_fu/backends/cloud_file_backend.rb
 lib/technoweenie/attachment_fu/backends/db_file_backend.rb
 lib/technoweenie/attachment_fu/backends/file_system_backend.rb
