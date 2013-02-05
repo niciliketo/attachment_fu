@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
-  s.name = %q{cis-sapna-attachment_fu}
-  s.version = "0.9.9.b" 
-  s.authors = ["Rick Olson", "Christophe Porteneuve"]
-  s.date = %q{2010-03-15}
-  s.description = %q{This is a fork of Rick Olson’s attachment_fu adding '!' geometry support, JPEG quality control and polymorphic-relation-based thumbnailing.}
-  s.email = %q{tdd@tddsworld.com}
+  s.name = %q{cis_attachment_fu}
+  s.version = "0.0.1" 
+  s.authors = ["Sapna"]
+  s.date = %q{2013-02-05}
+  s.description = %q{for uploading files or images.}
+  s.email = %q{sapna.j@cisinlabs.com}
   s.extra_rdoc_files = ["README"]
   s.files = %w(
 CHANGELOG
