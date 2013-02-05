@@ -16,7 +16,7 @@ install.rb
 amazon_s3.yml.tpl
 rackspace_cloudfiles.yml.tpl
 lib/geometry.rb
-lib/technoweenie/attachment_fu/cis-sapna-attachment_fu.rb
+lib/technoweenie/attachment_fu/cis_attachment_fu.rb
 lib/technoweenie/attachment_fu/backends/cloud_file_backend.rb
 lib/technoweenie/attachment_fu/backends/db_file_backend.rb
 lib/technoweenie/attachment_fu/backends/file_system_backend.rb
@@ -41,7 +41,6 @@ test/backends/remote/cloudfiles_test.rb
 test/backends/remote/s3_test.rb
 test/fixtures/attachment.rb
 test/fixtures/files/foo.txt
-test/fixtures/files/rails.jpg
 test/fixtures/files/rails.png
 test/fixtures/files/fake/rails.png
 test/processors/core_image_test.rb
