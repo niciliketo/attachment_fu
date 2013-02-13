@@ -9,7 +9,6 @@ module Technoweenie
         [:content_type, :size].each do |option|
           if attachment_validation_options[option] && attachment_options[option] && !attachment_options[option].include?(self.send(option))
             errors.add(:base, attachment_validation_options[option])
-            puts attachment_validation_options[option]
           end
         end
       end
